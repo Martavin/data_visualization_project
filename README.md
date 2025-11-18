@@ -35,4 +35,4 @@ This project uses Data Visulaliztioan tools such as
 
 
     ## How to Run the Project
-    
+    https://github.com/Martavin/data_visualization_project/blob/main/McWilliams_Martavin_FinalProject.ipynb
