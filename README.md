@@ -1,6 +1,6 @@
-# Predicting Attrition with Data Visulizations
+# Predicting Attrition with Data Visualization
 
-In this project, I will use Data Visulization tools to present insight on employees who are likely to leave a company based on **Overtime Hours** and **Monthly Income**
+In this project, I will use Data Visualization tools to present insight on employees who are likely to leave a company based on **Overtime Hours** and **Monthly Income**
 
 ## Project Overview 
 
